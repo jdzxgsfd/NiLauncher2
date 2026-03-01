@@ -1,6 +1,0 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-ko/23.0/offline/ni-software-platform-bundle-x86-ko_23.0.0.49269-0+f117_offline.iso 
-ni-software-platform-bundle-x86-ko_23.0.0.49269-0+f117_offline.iso
-2e5de40a0902d5a68e2a04a89179a741
-23.0.0.49269.x86.ko-KR
-Software Platform Bundle 2023 Q1 32bit Korean
-NI.SPB
