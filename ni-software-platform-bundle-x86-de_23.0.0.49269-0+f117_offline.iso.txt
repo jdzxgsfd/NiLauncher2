@@ -1,0 +1,6 @@
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-de/23.0/offline/ni-software-platform-bundle-x86-de_23.0.0.49269-0+f117_offline.iso 
+ni-software-platform-bundle-x86-de_23.0.0.49269-0+f117_offline.iso
+60c66f3e7d9785ac1a7c72cddac20881
+23.0.0.49269.x86.de-DE
+Software Platform Bundle 2023 Q1 32bit German
+NI.SPB
