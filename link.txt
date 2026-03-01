@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle/23.5/offline/ni-software-platform-bundle_23.5.0.49300-0+f148_offline.iso
-ni-software-platform-bundle_23.5.0.49300-0+f148_offline.iso
-29e08a26911e2d8852ef0fc1e92af190
-23.5.0.49300.x64.en-US
-Software Platform Bundle 2023 Q3 64bit English
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-de/23.0/offline/ni-software-platform-bundle-de_23.0.0.49269-0+f117_offline.iso 
+ni-software-platform-bundle-de_23.0.0.49269-0+f117_offline.iso
+294d7a85008473fd27845c95e3aad100
+23.0.0.49269.x64.de-DE
+Software Platform Bundle 2023 Q1 64bit German
 NI.SPB
